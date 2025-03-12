@@ -6,8 +6,8 @@
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iit.luanna@gmail.com)
 [![email](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](mailto:https://www.linkedin.com/in/maria-luana-836a6027a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu-perfil/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.seuportfolio.com)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/seu-perfil)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.seuportfolio.com)
 
 
 ---

@@ -1,12 +1,11 @@
 # 👩🏻‍💻 Maria Luana
 
-**`Estudando programação`** |
 **`FullStack`**
 
-Me chamo Maria Luana, e moro no Piauí. Concluí o ensino médio no Instituto Federal do Piauí (IFPI), com o curso técnico em Meio Ambiente. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFPI. Tenho interesse em tecnologia, com foco no desenvolvimento web.
+
 
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iit.luanna@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](mailto:https://www.linkedin.com/in/maria-luana-836a6027a/)
+[![email](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](mailto:https://www.linkedin.com/in/maria-luana-836a6027a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu-perfil/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.seuportfolio.com)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/seu-perfil)
@@ -131,14 +130,14 @@ Me chamo Maria Luana, e moro no Piauí. Concluí o ensino médio no Instituto Fe
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ea-luanna_icons=true&theme=tokyonight&include_all_commits=true" 
+    src="https://github-readme-stats.vercel.app/api?username=maria-luanna_icons=true&theme=tokyonight&include_all_commits=true" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ea-luanna&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-luanna&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 

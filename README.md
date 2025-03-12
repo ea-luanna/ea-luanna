@@ -1,6 +1,5 @@
 # 👩🏻‍💻 Maria Luana
 
-**`FullStack`**
 
 
 

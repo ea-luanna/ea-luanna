@@ -1,7 +1,7 @@
 
 # 👩🏻‍💻 Maria Luana
 
-Apenas uma jovem que estuda programação.
+Uma jovem que estuda programação.
 <details>
     <summary>About me</summary>
     
